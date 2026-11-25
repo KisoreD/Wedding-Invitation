@@ -3,7 +3,7 @@ import './App.css'
 import coupleIllustration from './assets/couple-illustration.png'
 
 const weddingDate = new Date('2027-01-24T07:00:00+05:30')
-const venue = '10.903836, 78.696654'
+const venue = '10.903849, 78.698715'
 function getTimeLeft() {
   const ms = Math.max(0, weddingDate.getTime() - Date.now())
   return { days: Math.floor(ms/86400000), hours: Math.floor(ms%86400000/3600000), minutes: Math.floor(ms%3600000/60000), seconds: Math.floor(ms%60000/1000) }
