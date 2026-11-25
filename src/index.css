@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Poppins:wght@300;400;500&display=swap');
+:root{font-family:'Poppins',sans-serif;color:#4b3025;background:#f7e8d2;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;font-weight:300;--wine:#711a2a;--gold:#b47d3e;--ink:#4b3025}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:320px;min-height:100vh}button,a{font:inherit}
